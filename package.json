@@ -1,7 +1,7 @@
 {
   "name": "pick",
   "version": "1.0.0",
-  "description": "Interactive CLI select menu in JavaScript",
+  "description": "Interactive CLI select menu in NodeJS",
   "main": "source/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
